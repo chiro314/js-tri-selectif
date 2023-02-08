@@ -1,0 +1,46 @@
+body{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+.container{
+    background-color: #106900;
+    font-family: 'Arvo', Arial;
+    height: 1000px;
+    color: white;
+}
+h1{
+    font-size: 1.5em !important;
+}
+#bt-commencer{
+    width: 15%;
+    margin: auto;
+    display: block;
+}
+
+#bt-continuer{
+    width: 20%;
+    margin: auto;
+    display: block;
+    margin-top: 1em;
+}
+
+#div-col-dechet{
+    height: 12em;
+}
+.poubelle{
+    height: 10em;
+    margin-bottom: 0.6em;
+}
+#div-col-message{
+    background-color: white;
+    color: black;
+}
+
+
+
+
+
+
+
+
